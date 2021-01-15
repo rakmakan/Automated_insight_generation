@@ -1,0 +1,11 @@
+account_name,click,metric_name,file_name,placement_description,delivered_em,category,city,__trx_change,data_type,site,__ntb_hcps,month_series,data_category,segment,type,visits,vendor_company,target,engine,campaign_name,unique_reach,page_views,impressions,cost,brand_name,locations,country/region,month,year,site_name,opens,trx_total,invoice_cost,keyword,metro_region_(dma),creative_type,ad_group,measured_impressions,email_creative,placement__name,clicks,blocks,delivered,measured_views,channel,advertiser_name,actions,state,send,reach,placement_name,vehicle,ban_impression,site_id,placement,viewability_rate,date,page,bounces,open,total_reach,activity,cmi_placementid,monthly_frequency,metric_value,sent,total_seconds_spent
+0,0,0,0,0,0,0,0,0,Broad_Display,0,0,1,Digital,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1
+0,0,0,1,0,0,0,0,0,Creative,0,0,1,Digital,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,Custom_Display,0,0,1,Digital,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1
+0,0,0,0,0,0,0,0,1,EHR,0,1,1,Digital,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+0,0,0,1,1,1,0,0,0,Enewsletter,0,0,1,Digital,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+0,0,1,0,0,0,1,0,0,Organic_Search,0,0,1,Digital,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0
+1,0,0,0,0,0,0,1,0,Paid_Search,1,0,1,Digital,0,0,1,0,0,1,1,0,1,1,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+0,0,0,1,1,0,0,0,0,point_of_care,0,0,1,Digital,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+0,0,0,0,0,0,0,0,0,Programatic_display,0,0,1,Digital,1,1,1,0,1,0,1,0,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+0,1,0,1,1,0,0,0,0,Third_Party_Email,0,0,1,Digital,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0

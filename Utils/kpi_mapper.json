@@ -1,0 +1,32 @@
+{
+    "Digital":
+    {
+        "ctr": 
+        {
+            "columns" : ["clicks", "impressions"],
+            "operator" : "/",
+            "multiplication_factor" : "1",
+            "type" : "ratio",
+            "return" : "float"
+            
+        },
+    
+        "cpc":
+        {
+            "columns" : ["cost", "clicks"],
+            "operator" : "/",
+            "multiplication_factor" : "1",
+            "type" : "currency",
+            "return" : "float"
+        },
+        "cpm":
+        {
+            "columns" : ["cost", "impressions"],
+            "operator" : "/",
+            "multiplication_factor" : "1000",
+            "type": "currency",
+            "return" : "float"
+        }
+    }
+    
+}
